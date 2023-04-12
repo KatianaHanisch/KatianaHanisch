@@ -30,6 +30,7 @@
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-61DAFB?style=for-the-badge&logo=expo&labelColor=000020)&nbsp;
 
 
 <div align="center">
