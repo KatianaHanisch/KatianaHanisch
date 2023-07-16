@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Katiana+Hanisch;I'm+19+years+old;I'm+from+Brazil;I+academic+of+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Katiana+Hanisch;I'm+20+years+old;I'm+from+Brazil;I+academic+of+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KatianaHanisch&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Katiana Hanisch github stats" /> 
@@ -27,12 +27,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
 
  
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&labelColor=000020)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
