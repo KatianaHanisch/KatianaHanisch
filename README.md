@@ -33,6 +33,7 @@
 
 ### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
