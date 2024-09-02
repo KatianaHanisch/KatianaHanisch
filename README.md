@@ -29,12 +29,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
- 
-
-### Studying in this moment:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
