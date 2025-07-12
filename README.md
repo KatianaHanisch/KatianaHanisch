@@ -32,6 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117)&nbsp;
 
 
 
